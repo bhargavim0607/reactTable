@@ -54,6 +54,14 @@ const data = [
     gender:'Female',
     phone: 4328987233,
   },
+  {
+    key: '7',
+    name: 'Jy0othi',
+    age: 12,
+    address: 'Akkayyyapalem',
+    gender:'Female',
+    phone: 4328987233,
+  },
   
 ];
 
